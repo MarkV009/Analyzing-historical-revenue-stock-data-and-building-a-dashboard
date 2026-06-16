@@ -3,8 +3,8 @@
 This project was part of the IBM Data Science certification course. Here, I showcase my skills in data extraction, analysis and visualization using python.
 **Achievements**
 1. Extracted Tesla and Gamestop's revenue and stock data using yfinance and web scraping(BeautifulSoup) in python.
-2. Defined a python function to plot both companies stock and revenue data.
-3. Cleaned the data to remove missing values and unwanted characters(ie. $) for proper visualization.
+2. Defined a python function to plot both companies stock and revenue data using matplotlib.
+3. Cleaned the data to remove missing values and unwanted characters(ie. $) to allow seamless visualization.
 4. Transformed the data to extract the key variables for analysis.
 
 **Conclusion from the visualizations**
